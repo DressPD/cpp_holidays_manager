@@ -2,7 +2,7 @@
 
 #### basic and rudimental holiday management system implemented in c++ on runtime memory
 
-####These are the steps implemented in the code:
+#### These are the procedures and classes implemented in the code:
 
 - creating classes and derived classes to save employees attributes and relative methods
 - implemention of time class from scratch
